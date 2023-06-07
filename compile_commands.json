@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/aluhug/progexam/hallServer-master",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_SQL_LIB -I/home/aluhug/progexam/hallServer-master/hallServer_autogen/include -I/home/aluhug/progexam/hallServer-master -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtSql -std=c++17 -fPIC -o CMakeFiles/hallServer.dir/hallServer_autogen/mocs_compilation.cpp.o -c /home/aluhug/progexam/hallServer-master/hallServer_autogen/mocs_compilation.cpp",
+  "file": "/home/aluhug/progexam/hallServer-master/hallServer_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/hallServer.dir/hallServer_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/aluhug/progexam/hallServer-master",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_SQL_LIB -I/home/aluhug/progexam/hallServer-master/hallServer_autogen/include -I/home/aluhug/progexam/hallServer-master -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtSql -std=c++17 -fPIC -o CMakeFiles/hallServer.dir/functions.cpp.o -c /home/aluhug/progexam/hallServer-master/functions.cpp",
+  "file": "/home/aluhug/progexam/hallServer-master/functions.cpp",
+  "output": "CMakeFiles/hallServer.dir/functions.cpp.o"
+},
+{
+  "directory": "/home/aluhug/progexam/hallServer-master",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_SQL_LIB -I/home/aluhug/progexam/hallServer-master/hallServer_autogen/include -I/home/aluhug/progexam/hallServer-master -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtSql -std=c++17 -fPIC -o CMakeFiles/hallServer.dir/main.cpp.o -c /home/aluhug/progexam/hallServer-master/main.cpp",
+  "file": "/home/aluhug/progexam/hallServer-master/main.cpp",
+  "output": "CMakeFiles/hallServer.dir/main.cpp.o"
+},
+{
+  "directory": "/home/aluhug/progexam/hallServer-master",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_SQL_LIB -I/home/aluhug/progexam/hallServer-master/hallServer_autogen/include -I/home/aluhug/progexam/hallServer-master -isystem /usr/include/qt -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtSql -std=c++17 -fPIC -o CMakeFiles/hallServer.dir/tcpserver.cpp.o -c /home/aluhug/progexam/hallServer-master/tcpserver.cpp",
+  "file": "/home/aluhug/progexam/hallServer-master/tcpserver.cpp",
+  "output": "CMakeFiles/hallServer.dir/tcpserver.cpp.o"
+}
+]

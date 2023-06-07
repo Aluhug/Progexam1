@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hallServer.dir/hallServer_autogen/mocs_compilation.cpp.o CMakeFiles/hallServer.dir/functions.cpp.o CMakeFiles/hallServer.dir/main.cpp.o CMakeFiles/hallServer.dir/tcpserver.cpp.o -o hallServer  /usr/lib/libQt5Network.so.5.15.9 /usr/lib/libQt5Sql.so.5.15.9 /usr/lib/libQt5Core.so.5.15.9 

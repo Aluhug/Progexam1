@@ -1,0 +1,6 @@
+.cache
+build
+hallServer
+CMakeLists.txt
+clients.db
+hallServer-master

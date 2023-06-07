@@ -1,0 +1,4 @@
+/home/aluhug/progexam/hallServer-master/CMakeFiles/hallServer.dir
+/home/aluhug/progexam/hallServer-master/CMakeFiles/edit_cache.dir
+/home/aluhug/progexam/hallServer-master/CMakeFiles/rebuild_cache.dir
+/home/aluhug/progexam/hallServer-master/CMakeFiles/hallServer_autogen.dir
